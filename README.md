@@ -1,2 +1,2 @@
 # Wedding-Checklist-
-Wedding Checklist 
+WeddingChecklist.html
